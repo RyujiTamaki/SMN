@@ -1,0 +1,7 @@
+ubuntu_data/
+*.model
+*.joblib
+*.npy
+*.h5
+*.json
+.python-version
